@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif)
+[![MasterHead](https://raphaeloo.com/wp-content/uploads/2018/10/6-basic-principles-for-using-animation-in-web-design.png)]
 
 <h1 align="center">Hallo 👋, Saya Moh. Azzam Al Husaini</h1>
 <h3 align="center">Saya seorang UI UX Enginer</h3>
